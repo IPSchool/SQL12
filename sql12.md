@@ -1,7 +1,7 @@
 ---
 type: Type
-color: blue
-_icon: bird
+color: pink
+_icon: alarm
 ---
 
 # SQL12
